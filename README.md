@@ -59,6 +59,8 @@ Focused on building toward roles in **Network Engineering**, **Linux SysAdmin**,
 ![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 ![S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![VPC](https://img.shields.io/badge/AWS%20VPC-Networking-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![ELB](https://img.shields.io/badge/AWS%20ELB-Load%20Balancer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
@@ -83,7 +85,7 @@ Focused on building toward roles in **Network Engineering**, **Linux SysAdmin**,
 |---|---|---|
 | [banking-peak-load-prototype](https://github.com/egayurcel990/banking-peak-load-prototype) | Scalable banking transaction simulation with peak load testing | Go · PostgreSQL · PgBouncer · Docker · Prometheus · Grafana · k6 |
 | [ascon-secure-gateway](https://github.com/egayurcel990/ascon-secure-gateway) | Docker-based web server with ASCON-128 encryption | Python · Docker · Nginx |
-| [aws-multi-service-deployment](https://github.com/egayurcel990/aws-multi-service-deployment) | Multi-service AWS infrastructure with IaC | Terraform · EC2 · S3 · Lambda |
+| [aws-multi-service-deployment](https://github.com/egayurcel990/aws-multi-service-deployment) | Multi-service AWS infrastructure with IaC | Terraform · EC2 · S3 · Lambda · VPC · ELB |
 | [projectadsis](https://github.com/egayurcel990/projectadsis) | Containerized multi-service Laravel infrastructure | Docker Compose · Laravel · MySQL |
 
 ---
@@ -91,8 +93,8 @@ Focused on building toward roles in **Network Engineering**, **Linux SysAdmin**,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egayurcel990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egayurcel990&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=egayurcel990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egayurcel990&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
 <p align="center">
